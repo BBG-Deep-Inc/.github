@@ -1,5 +1,4 @@
-## Hi there 👋
-
+The Business Bot Group (BBG Technologies) is a specialized development team focused on creating intelligent automation solutions for modern communication platforms. We transform routine tasks into seamless automated processes, helping businesses and communities work smarter, not harder.
 <!--
 
 **Here are some ideas to get you started:**
